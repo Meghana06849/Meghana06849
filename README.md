@@ -94,12 +94,13 @@ KNN-based prototype to **cluster music preferences** and visualize listening pat
 
 ## 📫 Connect with Me
 
-<p>
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <a href="mailto:nimmalameghanarao@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat-square&logo=gmail" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/meghana-nimmala/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+</div>
+
 
