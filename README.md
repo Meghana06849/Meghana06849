@@ -1,13 +1,14 @@
-# Meghana Nimmala — Crafting Calm Frontends & Curious Data Experiments ✨
+# Meghana Nimmala ✨
 
 Hi, I’m **Meghana Nimmala**
 
 **About Me (One-Line Headline):**  
-Building **intuitive frontends & practical data experiments** that make digital experiences calm, usable, and impactful.  
+BTech Computer Science Student | Frontend Developer | Data Science Enthusiast  
+🔹 Passionate about building interactive web apps and solving real-world problems with code  
+🔹 Exploring AI, Data Science, and Full-Stack Development  
+🌱 Currently learning advanced JavaScript, React, and Machine Learning  
 
----
-
-## 🛠️ Skills
+##  Skills
 
 **Frontend & UI/UX**: HTML, CSS, JavaScript, React, TailwindCSS  
 **Backend & Data**: Node.js, Express, MongoDB, Python, Pandas, NumPy, Matplotlib/Seaborn  
@@ -94,7 +95,11 @@ KNN-based prototype to **cluster music preferences** and visualize listening pat
 ## 📫 Connect with Me
 
 <p>
-  <a href="mailto:nimmalameghanarao@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat-square&logo=gmail" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/meghana-nimmala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nimmalameghanarao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat-square&logo=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/meghana-nimmala/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
