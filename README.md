@@ -63,10 +63,3 @@ Get in touch
 - LeetCode: [https://leetcode.com/u/megha05678/](https://leetcode.com/u/megha05678/)  
 - HackerRank: [https://www.hackerrank.com/profile/nimmalameghanar1](https://www.hackerrank.com/profile/nimmalameghanar1)
 
-Resume & portfolio
-- I can add a one-click resume link, portfolio screenshots, or a short video demo for each project — tell me which and I’ll add them.
-
----
-
-```markdown
-Reply with the tone you want and any links (LinkedIn, portfolio, project demos, screenshots). I’ll produce the final README with live badges, demo links, and optional screenshot placeholders you can drop into the repo.
