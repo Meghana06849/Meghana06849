@@ -1,19 +1,19 @@
 # Meghana Nimmala ✨
 
-Hi, I’m **Meghana Nimmala**
+Hey, I’m **Meghana Nimmala**
 
-**About Me (One-Line Headline):**  
+**About Me**
 BTech Computer Science Student | Frontend Developer | Data Science Enthusiast  
 🔹 Passionate about building interactive web apps and solving real-world problems with code  
-🔹 Exploring AI, Data Science, and Full-Stack Development  
-🌱 Currently learning advanced JavaScript, React, and Machine Learning  
+🔹 Exploring AI, Data Science, and Software Engineer 
+🌱 Currently learning advanced JavaScript, React, and Machine Learning ,Exploring Data Visualization
 
 ##  Skills
 
 **Frontend & UI/UX**: HTML, CSS, JavaScript, React, TailwindCSS  
-**Backend & Data**: Node.js, Express, MongoDB, Python, Pandas, NumPy, Matplotlib/Seaborn  
-**CS Fundamentals & Problem Solving**: Data Structures, Algorithms, OOP  
-**Tools**: Git/GitHub, VS Code, Figma, Postman  
+**Backend & Data**: MongoDB, Python, Pandas, NumPy, Matplotlib/Seaborn  
+**CS Fundamentals & Problem Solving**: Data Structures, Algorithms, OOPs 
+**Tools**: Git/GitHub, VS Code, Figma 
 
 ---
 
