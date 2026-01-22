@@ -3,7 +3,7 @@
 Hey, I’m **Meghana Nimmala**
 
 **About Me**
-BTech Computer Science Student | Frontend Developer | Data Science Enthusiast  
+BTech Computer Science Student |Prompt Engineering|Software Engineering | Frontend Developer | Data Science Enthusiast  
 🔹 Passionate about building interactive web apps and solving real-world problems with code  
 🔹 Exploring AI, Data Science, and Software Engineer 
 🌱 Currently learning advanced JavaScript, React, and Machine Learning ,Exploring Data Visualization
