@@ -1,106 +1,254 @@
-# Meghana Nimmala ✨
+<div align="center">
 
-Hey, I’m **Meghana Nimmala**
+# 👋 Hey, I'm Meghana Nimmala
 
-**About Me**
-BTech Computer Science Student |Prompt Engineering|Software Engineering | Frontend Developer | Data Science Enthusiast  
-🔹 Passionate about building interactive web apps and solving real-world problems with code  
-🔹 Exploring AI, Data Science, and Software Engineer 
-🌱 Currently learning advanced JavaScript, React, and Machine Learning ,Exploring Data Visualization
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+Projects+That+Matter" />
 
-##  Skills
+<img src="https://komarev.com/ghpvc/?username=Meghana06849&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-**Frontend & UI/UX**: HTML, CSS, JavaScript, React, TailwindCSS  
-**Backend & Data**: MongoDB, Python, Pandas, NumPy, Matplotlib/Seaborn  
-**CS Fundamentals & Problem Solving**: Data Structures, Algorithms, OOPs 
-**Tools**: Git/GitHub, VS Code, Figma 
-
----
-
-## 📅 Experience & Projects
-
-**2024 → Google AI-ML Virtual Internship (AICTE)**  
-- Hands-on ML workflows and Google AI tools  
-- Built experiments using Python, Pandas, and ML models  
-- Learned **data preprocessing, feature engineering, and evaluation**  
-
-**2024 → YBI Foundation: AI & Data Skills Internship**  
-- Developed skills in **data preprocessing, EDA, and supervised ML models**  
-- Built prototypes answering **real-world questions**  
-- Tools: Python, Pandas, NumPy, visualization libraries  
-
-**2025 → Personal Projects**  
-- **ChatConnect:** Privacy-first real-time chat app (React, TailwindCSS, Node.js, MongoDB)  
-- **Mood Matcher:** Emotion tracker and suggestion utility (HTML, CSS, JS)  
-- **Music Theme Recommender:** KNN-based music clustering (Python, Matplotlib, Seaborn)  
-
----
-
-## 🚀 Projects (Visual Portfolio)
-
-<div style="display:flex; gap:20px; flex-wrap: wrap;">
-
-<!-- ChatConnect -->
-<div style="border:1px solid #ccc; border-radius:12px; padding:15px; width:300px;">
-<b>💬 <a href="https://github.com/Meghana06849/ChatConnect">ChatConnect</a></b><br>
-Privacy-first real-time chat app designed to **reduce notification anxiety and keep conversations readable**.<br><br>
-<b>Tech Stack:</b><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>  
-![Screenshot](https://via.placeholder.com/250x120?text=ChatConnect+UI)
-</div>
-
-<!-- Mood Matcher -->
-<div style="border:1px solid #ccc; border-radius:12px; padding:15px; width:300px;">
-<b>🌈 <a href="https://github.com/Meghana06849/Mood-Matcher">Mood Matcher</a></b><br>
-Utility to **track emotional patterns** and provide **tiny actionable suggestions**.<br><br>
-<b>Tech Stack:</b><br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  
-![Screenshot](https://via.placeholder.com/250x120?text=Mood+Matcher+UI)
-</div>
-
-<!-- Music Theme Recommender -->
-<div style="border:1px solid #ccc; border-radius:12px; padding:15px; width:300px;">
-<b>🎵 <a href="https://github.com/Meghana06849/Music-Theme-Recommender">Music Theme Recommender</a></b><br>
-KNN-based prototype to **cluster music preferences** and visualize listening patterns.<br><br>
-<b>Tech Stack:</b><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Seaborn-1A4D8F?style=flat-square&logo=seaborn&logoColor=white"/>  
-![Screenshot](https://via.placeholder.com/250x120?text=Music+Recommender+UI)
-</div>
+### 🚀 Software Engineer | Full Stack Developer | Data Analytics Enthusiast
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meghana06849&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana06849&layout=compact&theme=radical)  
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate about Software Engineering & Full Stack Development
+
+📊 Exploring Data Analytics, Data Visualization & Machine Learning
+
+🤖 Interested in AI, Prompt Engineering, and Problem Solving
+
+🌱 Currently Learning
+
+- Advanced React
+- Power BI
+- SQL
+- Machine Learning
+- Data Visualization
+
+🎯 Goal
+
+Build scalable software products and leverage data to solve real-world problems.
 
 ---
 
-## 📊 Problem Solving Profiles
+# 🛠️ Tech Stack
 
-- [LeetCode](https://leetcode.com/u/megha05678/)  
-- [HackerRank](https://www.hackerrank.com/profile/nimmalameghanar1)  
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+### ⚛️ Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+</p>
+
+### 🔥 Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 💼 Experience
 
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <a href="mailto:nimmalameghanarao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat-square&logo=gmail" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/meghana-nimmala/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+## Google AI-ML Virtual Internship (AICTE) — 2024
+
+- Machine Learning workflows
+- Data preprocessing
+- Feature engineering
+- Model evaluation
+- Google AI tools
+
+## YBI Foundation AI & Data Skills Internship — 2024
+
+- Exploratory Data Analysis (EDA)
+- Data preprocessing
+- Data visualization
+- Supervised Machine Learning models
+
+---
+
+# 🚀 Featured Projects
+
+## 💬 ChatConnect
+
+A next-generation real-time chat platform featuring authentication, gamification, AI-powered interactions, mood-based experiences, and modern social features.
+
+**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • Socket.IO
+
+---
+
+## 🌾 Crop Production Prediction
+
+Machine Learning project that analyzes historical agricultural datasets to predict crop production and identify factors affecting yield.
+
+**Tech Stack:** Python • Pandas • NumPy • Scikit-Learn • Matplotlib
+
+---
+
+## 📈 Cryptocurrency Trend Analyzer
+
+Data analytics project focused on identifying cryptocurrency market patterns and visualizing trends.
+
+**Tech Stack:** Python • Pandas • Matplotlib • Seaborn
+
+---
+
+## 🌈 Mood Matcher
+
+Interactive web application that helps users track emotional patterns and receive actionable suggestions.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+# 📌 Featured Repository
+
+<p align="center">
+
+<a href="https://github.com/Meghana06849/ChatConnect">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Meghana06849&repo=ChatConnect&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Meghana06849&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana06849&layout=compact&theme=tokyonight"/>
+
 </div>
 
+---
 
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Meghana06849&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghana06849&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced MERN Stack
+  - SQL
+  - Power BI
+  - Machine Learning
+  - Data Visualization
+
+Building:
+  - ChatConnect
+  - Analytics Dashboards
+  - Full Stack Applications
+  - Data Science Projects
+
+Career Goal:
+  - Software Engineer
+  - Full Stack Developer
+  - Data Analytics Professional
+```
+
+---
+
+# 🧩 Problem Solving
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Meghana-Nimmala/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/nimmalameghanar1">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:nimmalameghanarao@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/meghana-nimmala">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Meghana06849">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Data tells stories. Code brings ideas to life.
+
+⭐ Thanks for visiting my profile! ⭐
+
+</div>
