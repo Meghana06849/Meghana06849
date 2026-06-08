@@ -92,18 +92,18 @@ Build scalable software products and leverage data to solve real-world problems.
 
 ## Google AI-ML Virtual Internship (AICTE) — 2024
 
-- Machine Learning workflows
-- Data preprocessing
-- Feature engineering
-- Model evaluation
-- Google AI tools
+- Machine Learning Workflows
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Google AI Tools
 
 ## YBI Foundation AI & Data Skills Internship — 2024
 
 - Exploratory Data Analysis (EDA)
-- Data preprocessing
-- Data visualization
-- Supervised Machine Learning models
+- Data Preprocessing
+- Data Visualization
+- Supervised Machine Learning Models
 
 ---
 
@@ -111,7 +111,7 @@ Build scalable software products and leverage data to solve real-world problems.
 
 ## 💬 ChatConnect
 
-A next-generation real-time chat platform featuring authentication, gamification, AI-powered interactions, mood-based experiences, and modern social features.
+A privacy-first real-time chat application featuring authentication, AI-powered interactions, gamification, and modern social features.
 
 **Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • Socket.IO
 
@@ -119,7 +119,7 @@ A next-generation real-time chat platform featuring authentication, gamification
 
 ## 🌾 Crop Production Prediction
 
-Machine Learning project that analyzes historical agricultural datasets to predict crop production and identify factors affecting yield.
+Machine Learning project that analyzes agricultural datasets to predict crop production and identify important yield factors.
 
 **Tech Stack:** Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 
@@ -127,7 +127,7 @@ Machine Learning project that analyzes historical agricultural datasets to predi
 
 ## 📈 Cryptocurrency Trend Analyzer
 
-Data analytics project focused on identifying cryptocurrency market patterns and visualizing trends.
+Data analytics project focused on cryptocurrency market trends, pattern analysis, and visualization.
 
 **Tech Stack:** Python • Pandas • Matplotlib • Seaborn
 
@@ -135,53 +135,9 @@ Data analytics project focused on identifying cryptocurrency market patterns and
 
 ## 🌈 Mood Matcher
 
-Interactive web application that helps users track emotional patterns and receive actionable suggestions.
+Interactive web application for tracking emotional patterns and generating useful suggestions.
 
 **Tech Stack:** HTML • CSS • JavaScript
-
----
-
-# 📌 Featured Repository
-
-<p align="center">
-
-<a href="https://github.com/Meghana06849/ChatConnect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Meghana06849&repo=ChatConnect&theme=tokyonight"/>
-</a>
-
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Meghana06849&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana06849&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Meghana06849&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghana06849&theme=tokyo-night"/>
-
-</div>
 
 ---
 
