@@ -2,11 +2,11 @@
 
 # 👋 Hey, I'm Meghana Nimmala
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+Projects+That+Matter" />
 
 <img src="https://komarev.com/ghpvc/?username=Meghana06849&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-### 🚀 Software Engineer | Full Stack Developer | Data Analytics Enthusiast
+### 🚀 Aspiring Software Engineer | Full Stack Developer | Data Analytics Enthusiast
 
 </div>
 
@@ -33,6 +33,17 @@
 🎯 Goal
 
 Build scalable software products and leverage data to solve real-world problems.
+
+---
+
+# 🏆 Key Highlights
+
+- 🚀 Built ChatConnect – Full Stack Real-Time Chat Application
+- 🎓 Developed TPO Student Tracker for Placement Analytics
+- ❤️ Created Mood Matcher Interactive Web Platform
+- 📊 Passionate about Data Analytics and Visualization
+- 💻 Solving DSA Problems on LeetCode and HackerRank
+- 🌱 Continuously Learning MERN Stack and Machine Learning
 
 ---
 
@@ -111,9 +122,17 @@ Build scalable software products and leverage data to solve real-world problems.
 
 ## 💬 ChatConnect
 
-A privacy-first real-time chat application featuring authentication, AI-powered interactions, gamification, and modern social features.
+A privacy-first real-time chat application featuring authentication, AI-powered interactions, gamification, mood-based UI, and modern social features.
 
 **Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • Socket.IO
+
+---
+
+## 🎓 TPO Student Tracker
+
+A student placement analytics platform that enables tracking of internship and job applications, aptitude scores, interview performance, company eligibility, and placement statistics through interactive dashboards and real-time insights.
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Chart.js
 
 ---
 
@@ -133,9 +152,9 @@ Data analytics project focused on cryptocurrency market trends, pattern analysis
 
 ---
 
-## 🌈 Mood Matcher
+## ❤️ Mood Matcher
 
-Interactive web application for tracking emotional patterns and generating useful suggestions.
+A mood-based interactive web application that helps users explore emotional patterns, understand their moods, and receive personalized suggestions through a simple and engaging interface.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
@@ -153,15 +172,26 @@ Learning:
 
 Building:
   - ChatConnect
+  - TPO Student Tracker
   - Analytics Dashboards
   - Full Stack Applications
-  - Data Science Projects
 
 Career Goal:
   - Software Engineer
   - Full Stack Developer
   - Data Analytics Professional
 ```
+
+---
+
+# 📚 Currently Exploring
+
+- Advanced React Concepts
+- REST APIs & Backend Development
+- Data Analytics with Power BI
+- Machine Learning Algorithms
+- SQL Optimization
+- System Design Fundamentals
 
 ---
 
@@ -176,6 +206,24 @@ Career Goal:
 <a href="https://www.hackerrank.com/profile/nimmalameghanar1">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meghana06849&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana06849&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghana06849&theme=tokyonight"/>
 
 </p>
 
